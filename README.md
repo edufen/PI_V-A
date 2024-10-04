@@ -87,36 +87,54 @@ A correlação entre o número de dias sem chuva e as queimadas reforça a impor
 
 ### Total de Queimadas por Bioma
 
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291790983654150144/image.png?ex=6701619a&is=6700101a&hm=cf4456d8ca64bb35c4194aea4e2df8ff6e8624c6860931615fdb1a455296036c&)
+
+
 - **Amazônia**: 87.054 focos (maior devastação).
 - **Cerrado**: 56.107 focos (predisposição às queimadas devido ao clima).
 - **Mata Atlântica**: 14.385 focos.
 - **Pantanal**: 10.377 focos (preocupante, dada sua menor extensão territorial).
 
-_Imagem: Gráfico de barras comparando as queimadas por bioma._
-
 ### Total de Queimadas por Região
+
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291791662938329118/image.png?ex=6701623c&is=670010bc&hm=49ec0370e591651cbc9df075fbc99398ff0f884fab1500254480ee9a0d5b6851&)
+
 
 - A região Norte apresentou a maior proporção de queimadas, destacando uma severa crise climática.
 - O Centro-Oeste também enfrentou uma crise crescente, exacerbada por correntes de vento que transportam fumaça, piorando a qualidade do ar e impulsionando mais queimadas.
-  
-_Imagem: Mapa de calor destacando as queimadas por região._
 
 ### Focos de Incêndio por Estado
+
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291791846359695380/image.png?ex=67016268&is=670010e8&hm=72e6cdcd109e4620fba452033e2728c06d232090db00c85745373e7bc6283ec1&)
+
 
 - **Mato Grosso** lidera em porcentagem de focos de incêndio (22,52%).
 - **Pará** segue com 17,07%.
 - **Amazonas** vem em terceiro com 10,95%.
 
-_Imagem: Mapa do Brasil com a quantidade de focos por estado._
-
 ### Intensidade dos Incêndios
+
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291792155123126355/image.png?ex=670162b2&is=67001132&hm=60d1ea3b18db827b99c1b957492ffb1ceef852134a7ab281184cb96697763dc8&)
 
 O **Pantanal** lidera em Potência Radiativa do Fogo (FRP), indicando incêndios de grande intensidade e duração.
 
-_Imagem: Gráfico de barras mostrando a intensidade dos incêndios por bioma._
-
 ### Dias Sem Chuvas
+
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291792312350801920/image.png?ex=670162d7&is=67001157&hm=d67b333b6999c326c30e5a8061e3c8a4ecebb532ffbee549c3aa72476a706ba3&)
 
 A relação é clara: mais dias sem chuvas aumentam o risco de incêndios e a intensidade (alta FRP), mostrando que a vegetação seca é um combustível para as chamas.
 
-_Imagem: Gráfico de linha entre dias sem chuvas e focos de incêndio._
+Página 1
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291792918079864904/image.png?ex=67016368&is=670011e8&hm=9dc5e825d93855a75a919454812cdcea61afa20a52d0baf760816003ce35e37c&)
+
+Página 2
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291793153833046016/image.png?ex=670163a0&is=67001220&hm=1321ac7ecb93c34d68eb2ebe880ba07610747720432cecaf10333eb84a91c6f6&)
+
+Página 3
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291793292039553086/image.png?ex=670163c1&is=67001241&hm=e3f173e4c04d22b2dd136248b2cff1a56f388d4e491da2843ad8e872e8bb1b46&)
+
+Página 4
+![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291793414077153300/image.png?ex=670163de&is=6700125e&hm=8ed0bc2969d56dbed22dc67b2e0c035e5b0b75f27d6f4171d7419835f9c9aff5&)
+
+
+Dashboards feitos por Jorge Freitas e Julia Aguiar.
