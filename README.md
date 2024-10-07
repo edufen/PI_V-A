@@ -135,6 +135,3 @@ Página 3
 
 Página 4
 ![Screenshot](https://cdn.discordapp.com/attachments/1254451336682930226/1291793414077153300/image.png?ex=670163de&is=6700125e&hm=8ed0bc2969d56dbed22dc67b2e0c035e5b0b75f27d6f4171d7419835f9c9aff5&)
-
-
-Dashboards feitos por Jorge Freitas e Julia Aguiar.
